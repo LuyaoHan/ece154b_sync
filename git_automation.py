@@ -1,6 +1,5 @@
 ######################################################################
 ## Python script for git-push files in current folder one at a time.
-## Github has push cache limit so one at a time ensures all files being sync-ed.
 ##
 #######################################################################
 import os
